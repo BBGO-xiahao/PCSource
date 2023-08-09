@@ -1,9 +1,3 @@
-1.报文校验、通讯测试、数据转换、加解密在线工具 http://xnkiot.com/#/wordcmp
+1.图形训练用OpenCV 有很多预训练图形模型 https://github.com/openvinotoolkit/open_model_zoo/tree/master/models/intel，预训练模型下载
 
-2.微软无界鼠标（Mouse without Borders）安装及使用|多台电脑共用鼠标键盘
-
-3.Software Ideas Modeler 好用的UML转C#需要下载破解版 Software Ideas Modeler Ultimate 12.87 激活版 http://www.sd173.com/soft/10011.html
-
-4.图形训练用OpenCV 有很多预训练图形模型 https://github.com/openvinotoolkit/open_model_zoo/tree/master/models/intel，预训练模型下载
-
-5.数据训练用ML.Net以及简单的图片训练。
+2.数据训练用ML.Net以及简单的图片训练。
